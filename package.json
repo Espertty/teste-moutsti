@@ -1,0 +1,23 @@
+{
+  "name": "teste-moutsti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Espertty/teste-moutsti.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Espertty/teste-moutsti/issues"
+  },
+  "homepage": "https://github.com/Espertty/teste-moutsti#readme",
+  "devDependencies": {
+    "cypress": "^14.5.3"
+  }
+}
