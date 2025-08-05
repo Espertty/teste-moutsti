@@ -10,6 +10,6 @@ module.exports = defineConfig({
   env: {
     apiURL: 'https://serverest.dev/',
     email: 'fulano@qa.com',
-    password: 'teste'
+    senha: 'teste'
   }
 });
