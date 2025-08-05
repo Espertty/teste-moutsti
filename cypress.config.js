@@ -5,5 +5,11 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
+    baseUrl: 'https://front.serverest.dev',
   },
+  env: {
+    apiURL: 'https://serverest.dev/',
+    email: 'fulano@qa.com',
+    password: 'teste'
+  }
 });
